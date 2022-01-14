@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venkatesh83362
+- 👋 Hi, I’m @Venkatesh
 - 👀 I’m interested in ...GCP and DevOps
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ...
